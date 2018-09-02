@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 7d4bcc3b65eb1465a9719991f576a084
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: pers 1_0
+    21300002: pers 1_1
+    21300004: pers 1_2
+    21300006: pers 1_3
+    21300008: pers 1_4
+    21300010: pers 1_5
+    21300012: pers 1_6
+    21300014: pers 1_7
+    21300016: pers 1_8
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pers 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725.00006
+        width: 1211.141
+        height: 1043
+      alignment: 9
+      pivot: {x: 0.49787763, y: 0.5023969}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55cee775367eb47dabce685e0393a5a4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pers 1_1
+      rect:
+        serializedVersion: 2
+        x: 1141.72
+        y: 1131
+        width: 267.90527
+        height: 214
+      alignment: 9
+      pivot: {x: 0.49935618, y: 0.49766353}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5d171edbda2481b8141cf8491de4b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pers 1_2
+      rect:
+        serializedVersion: 2
+        x: 1905.5333
+        y: 1564.9048
+        width: 135.17578
+        height: 94.19043
+      alignment: 9
+      pivot: {x: 1.1464086, y: -1.0872087}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed88564932bb4a29b0d7bdff56cf507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pers 1_3
+      rect:
+        serializedVersion: 2
+        x: 1828.5522
+        y: 1112
+        width: 75.825195
+        height: 76.920654
+      alignment: 9
+      pivot: {x: 0.5004668, y: 0.48751694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a852ccbf3998f45e6bf55debff1502dc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pers 1_4
+      rect:
+        serializedVersion: 2
+        x: 2044.4995
+        y: 676
+        width: 165.50049
+        height: 154.63489
+      alignment: 9
+      pivot: {x: 0.5166178, y: 0.49471334}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a2ca26623d04829bd7ba6205934261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pers 1_5
+      rect:
+        serializedVersion: 2
+        x: 776.6182
+        y: 393
+        width: 284.02484
+        height: 90.95239
+      alignment: 9
+      pivot: {x: 0.49954024, y: 0.4947647}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000a85a573a4a4b1cabdb170121a2855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pers 1_6
+      rect:
+        serializedVersion: 2
+        x: 1701.5831
+        y: 395
+        width: 170.78613
+        height: 257.17462
+      alignment: 9
+      pivot: {x: 0.5001401, y: 0.4977163}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d925e408d44e64b8aaed3a856078665d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pers 1_7
+      rect:
+        serializedVersion: 2
+        x: 271.86478
+        y: 23.063494
+        width: 323.9418
+        height: 230.19049
+      alignment: 9
+      pivot: {x: 0.49896374, y: 0.43849123}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b65ceb02d70e4d73b96b0cb153175f0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pers 1_8
+      rect:
+        serializedVersion: 2
+        x: 1109.4556
+        y: 0
+        width: 169.66809
+        height: 185.25397
+      alignment: 9
+      pivot: {x: 0.50124, y: 0.48581955}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54039be1d9df4088b306a37156bbcd0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 872b49da3e8f1434abc112dee4689d47
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 636713870260000000
+  assetBundleName: 
+  assetBundleVariant: 

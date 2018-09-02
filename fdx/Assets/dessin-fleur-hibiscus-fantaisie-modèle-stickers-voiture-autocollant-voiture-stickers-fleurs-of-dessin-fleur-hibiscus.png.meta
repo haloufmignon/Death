@@ -1,0 +1,1317 @@
+fileFormatVersion: 2
+guid: c84ad7795a6a3974abd9c28c5377d657
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_0"
+    21300002: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_1"
+    21300004: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_2"
+    21300006: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_3"
+    21300008: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_4"
+    21300010: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_5"
+    21300012: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_6"
+    21300014: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_7"
+    21300016: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_8"
+    21300018: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_9"
+    21300020: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_10"
+    21300022: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_11"
+    21300024: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_12"
+    21300026: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_13"
+    21300028: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_14"
+    21300030: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_15"
+    21300032: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_16"
+    21300034: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_17"
+    21300036: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_18"
+    21300038: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_19"
+    21300040: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_20"
+    21300042: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_21"
+    21300044: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_22"
+    21300046: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_23"
+    21300048: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_24"
+    21300050: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_25"
+    21300052: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_26"
+    21300054: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_27"
+    21300056: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_28"
+    21300058: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_29"
+    21300060: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_30"
+    21300062: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_31"
+    21300064: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_32"
+    21300066: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_33"
+    21300068: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_34"
+    21300070: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_35"
+    21300072: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_36"
+    21300074: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_37"
+    21300076: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_38"
+    21300078: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_39"
+    21300080: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_40"
+    21300082: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_41"
+    21300084: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_42"
+    21300086: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_43"
+    21300088: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_44"
+    21300090: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_45"
+    21300092: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_46"
+    21300094: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_47"
+    21300096: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_48"
+    21300098: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_49"
+    21300100: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_50"
+    21300102: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_51"
+    21300104: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_52"
+    21300106: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_53"
+    21300108: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_54"
+    21300110: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_55"
+    21300112: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_56"
+    21300114: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_57"
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4860a918ea4f3a4c9bf38b0a21b426c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_1"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 165
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f36d88d0ac02ee4590a95636bcf6ff4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_2"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 480
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f562f1df81c9d9a4993efe30e06e2f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_3"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e1c3242e93c0745b4289d3262124c2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 159
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b558707cb1b674d84c175c62fdb402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 156
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92523207859a7c14b86a9601ac755cf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d61cc6f8586ac24ea5db863532ceafa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_7"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7eb49b983decf94d83f8169388c7976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 147
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bad6e7691cb82749bb995899d06ac60
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_9"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da0457daeebe0d488f879ee84369bc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_10"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 141
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aca5759d7406504981db151ffff6c8e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_11"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 138
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e74c1839eafdce4e921cb5fdea3555c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c20d064f8314d45bce8f188d64d3b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_13"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95384a4239655cd4880b1ceaa72ffac1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_14"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed4a1d2b2d72d24b9c6992ded59f2a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_15"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77db7e4fdac473a4883f454e368eb228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 123
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec151254e91f5a4e89443d587d6cb25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_17"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2511d8fb46a19a4cb3ecc131b87b227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24c80097c4a5984183ae2e88570b9dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_19"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 114
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c775499b628fe43aaf19a092c078b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 111
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b1293d038bf8946935b6556e5f0653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_21"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd22fa68801782a45bea5adaed11a7d5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_22"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 105
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b822fcde9533b4cb4adc7b6db67349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_23"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b853598ae71cb640968313a48c68c46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d13f146eea4e3146b1a47cc2249e15f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_25"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5d7cf4516bd8a44a10e5158551f977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_26"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07302b637712b3040a6b2c8f322ba150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_27"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5614f4d811e55439991d81355e8fa9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_28"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303c34cafff938d4d868d47c2dda4a78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_29"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edfafd6e92ea1b48b71068d8f09324c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_30"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557d6258b444b234e8ccb45134bc2f8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_31"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 78
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 152503f11c754aa4e9a0c20a03487fac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5029e038bccaa444a1a0f3c27737be5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_33"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e2d86e4987bb94994ceef6347d4ed8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_34"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 69
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639a4f735c23aa2468bf22c307d49278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_35"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 600cbdfb06be0a04e8a01b87956abd8d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_36"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08596644154a42e40813de041039fa78
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_37"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b39e340e99af7459c11df691499534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_38"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 57
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93193040d18fae445a9a5726817a01e3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_39"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35efef41e65ee904fab62a9ce2df6afb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_40"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0433b411c232914448ff24a04ca98579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_41"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d7a7c7b52d07246b1c26be9659001c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_42"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d86ce7046b2ae84cb92aa73269b5638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_43"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 42
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0650e7514a52694fbb02cf162619f69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_44"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 39
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f0fd3497670cb4cbfcf4c03e709286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_45"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc544c695c050743bf83147f89659cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_46"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 33
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ddbc1e28e2c0b4f9b49a833be7e302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_47"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e96a3cf6ef84914eb3d98d0cd6694d6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_48"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d958da05794e38d40ba059a30db4fd08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_49"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d43a834014cae4dad9aa9e86f054a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_50"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 21
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6d237dd73cdd14789010712da16e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_51"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475a4f399a06dcf4dbfd084e82ead370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_52"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 15
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb08983fd3bfa044bac81321f046134e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_53"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e0a5304768bb34e98ceba4906b41bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_54"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785f12fed1b56a94f93c0fedb7b6f17a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_55"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8170862da5650fb48ad0425877f1805f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_56"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a062aef16813a4395e2153989df854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "dessin-fleur-hibiscus-fantaisie-mod\xE8le-stickers-voiture-autocollant-voiture-stickers-fleurs-of-dessin-fleur-hibiscus_57"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c58d86c162c9a4bb6614de6a753a51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: addf5b5b592b9cd4d96220167f2d2bfb
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
