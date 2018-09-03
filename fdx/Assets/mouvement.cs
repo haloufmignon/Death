@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class mouvement : MonoBehaviour {
 
@@ -12,8 +13,14 @@ public class mouvement : MonoBehaviour {
    
     }
     void Update(){
-        if (healthAmount ==5)
+        if (healthAmount ==20)
             Destroy(gameObject);
+
+        if (healthAmount==0)
+        {
+            loading();
+
+        }
     }  // Update is called once per frame
 	void FixedUpdate () {
 
@@ -27,6 +34,15 @@ public class mouvement : MonoBehaviour {
 }
     void OnTriggerEnter2D(Collider2D collider){
         if (collider.gameObject.tag.Equals("bonus"))
-            healthAmount -= 1;
-    }
+            healthAmount += 2;
+    
+        if (collider.gameObject.tag.Equals("piege"))
+            healthAmount -= 2;
+    } 
+
+    public void loading()
+    {
+        SceneManager.LoadScene(1);
+
+} 
 }

@@ -13,5 +13,6 @@ public class healthbarscript : MonoBehaviour {
 	void Update () {
         localScale.x = mouvement.healthAmount;
         transform.localScale = localScale;
+
 	}
 }

@@ -5,16 +5,34 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
-    path: Assets/CorgiEngine/scenes/StartScreen.unity
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
     guid: 00000000000000000000000000000000
   - enabled: 1
-    path: Assets/CorgiEngine/scenes/Level1.unity
-    guid: 00000000000000000000000000000000
+    path: Assets/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/CorgiEngine/scenes/Level2.unity
-    guid: 00000000000000000000000000000000
+    path: Assets/scene player 1 win.unity
+    guid: be354f9afb51841a6b7e92b84cae25fd
   - enabled: 1
-    path: Assets/CorgiEngine/scenes/Level3.unity
-    guid: 00000000000000000000000000000000
+    path: Assets/scene player 2 win.unity
+    guid: 4f258660e0f3943af9b48c92c4f43d05
+  - enabled: 1
+    path: Assets/menu.unity
+    guid: 7abbad16ecf1c405190869b7eb2572d0
+  - enabled: 1
+    path: Assets/vs scene.unity
+    guid: 90b4c5bc5f4c2472ea6885a580cb0c64
+  - enabled: 1
+    path: Assets/instructions scene.unity
+    guid: 50c117b7fcdce45a9b371f1ea46d9143
   m_configObjects: {}
